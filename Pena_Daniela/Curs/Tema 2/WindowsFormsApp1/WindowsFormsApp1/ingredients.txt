@@ -1,0 +1,17 @@
+Tomato-sauce 2
+Tomatos 2
+Mushrooms 2
+Olives 2
+Peperoni 3
+Sausage 3
+Corn 2
+Cheese 2
+Fish 2
+Onions 1
+Carrots 1
+Eggs 1
+Lamb 3
+Ananas 2
+Bacon 2
+Salami 2
+Tofu 2

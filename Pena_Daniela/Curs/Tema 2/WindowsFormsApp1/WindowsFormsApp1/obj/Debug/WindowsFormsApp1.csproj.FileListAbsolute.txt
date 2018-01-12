@@ -1,0 +1,47 @@
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Crawler\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Crawler\source\repos\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Crawler\Downloads\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1 - Copy (3) copie pura fara db - Copy - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Descarcari\pizza pt pssc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

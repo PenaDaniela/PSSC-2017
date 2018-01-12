@@ -1,0 +1,11 @@
+Margherita 15 Tomato_sauce Mushrooms Olives Peperoni Cheese
+Capriciosa 16 Tomato_sauce Bacon Olives Cheese Onions
+Bona-Bona 14 Tomato_sauce Tomatos Bacon Salami Onions Olives
+Alabala 13 Tomato_sauce Bacon Tomatos Olives
+Hawaii 16 Tomato_sauce Ananas Cheese
+Luigi-Speciale 14 Tomato_sauce Salami Peperoni Cheese Onions Corn
+Calzone 18 Tomato_sauce Onions Bacon Cheese
+Alabama 16 Tomato_sauce Sausage Onions Cheese Bacon
+Carnivora 15 Tomato_sauce Cheese Salami Peperoni Bacon Onions
+Vegetariana 13 Tomato_sauce Tomatos Tofu Onions Corn Cheese Carrots
+Custom 5 Tomato_sauce
